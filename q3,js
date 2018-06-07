@@ -1,0 +1,5 @@
+var fname = 'Chakshu'
+var lname = 'Madaan'
+var name = fname + lname
+console.log(name)
+console.log(name.length)
